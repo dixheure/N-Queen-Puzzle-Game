@@ -1,0 +1,19 @@
+2020-07-25 18:32:03,955 - risk_game_v1.0:149 - INFO - Start New Game ==> Grid size: 5x5 - Queen(s): 5
+2020-07-25 18:32:09,303 - risk_game_v1.0:177 - INFO - Queen 1 ==> x:1, y: 1
+2020-07-25 18:32:27,364 - risk_game_v1.0:177 - INFO - Queen 2 ==> x:2, y: 3
+2020-07-25 18:32:38,397 - risk_game_v1.0:177 - INFO - Queen 3 ==> x:3, y: 5
+2020-07-25 18:32:50,838 - risk_game_v1.0:177 - INFO - Queen 4 ==> x:5, y: 4
+2020-07-25 18:33:11,110 - risk_game_v1.0:177 - INFO - Queen 5 ==> x:4, y: 2
+2020-07-25 18:33:11,141 - risk_game_v1.0:192 - INFO - End ==> a gain
+2020-07-26 22:46:17,606 - risk_game_v1.0:156 - INFO - Start New Game ==> Grid size: 1x1 - Queen(s): 1
+2020-07-26 22:47:02,672 - risk_game_v1.0:156 - INFO - Start New Game ==> Grid size: 1x1 - Queen(s): 1
+2020-07-26 22:53:10,407 - risk_game_v1.0:156 - INFO - Start New Game ==> Grid size: 1x1 - Queen(s): 1
+2020-07-26 22:53:43,117 - risk_game_v1.0:156 - INFO - Start New Game ==> Grid size: 5x5 - Queen(s): 5
+2020-07-26 22:56:10,266 - risk_game_v1.0:156 - INFO - Start New Game ==> Grid size: 5x5 - Queen(s): 5
+2020-07-26 22:58:39,154 - risk_game_v1.0:150 - INFO - Start New Game ==> Grid size: 5x5 - Queen(s): 5
+2020-07-26 22:58:45,830 - risk_game_v1.0:178 - INFO - Queen 1 ==> x:1, y: 1
+2020-07-26 22:58:52,358 - risk_game_v1.0:178 - INFO - Queen 2 ==> x:2, y: 4
+2020-07-26 22:59:03,716 - risk_game_v1.0:178 - INFO - Queen 3 ==> x:4, y: 5
+2020-07-26 22:59:15,321 - risk_game_v1.0:178 - INFO - Queen 4 ==> x:3, y: 2
+2020-07-26 22:59:22,742 - risk_game_v1.0:178 - INFO - Queen 5 ==> x:5, y: 3
+2020-07-26 22:59:22,771 - risk_game_v1.0:193 - INFO - End ==> a gain
